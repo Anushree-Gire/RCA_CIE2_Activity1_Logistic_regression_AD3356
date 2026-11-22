@@ -110,6 +110,6 @@ The model achieved 84.3% accuracy and an F1-score of 0.882 at the selected thres
 
 **Faculty Submission GitHub ID:** [https://github.com/complexiota](https://github.com/complexiota)
 
-**Student's Public Repository:** [Paste your own repository URL here]
+**Student's Public Repository:** https://github.com/Anushree-Gire/RCA_CIE2_Activity1_Logistic_regression_AD3356/tree/main
 
 All project files, including the completed notebook, required datasets and README, are maintained in this repository for faculty review.
